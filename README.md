@@ -1,0 +1,1 @@
+Prform is a visual form definition system primarily used for internal data reporting scenarios within enterprises. Supervisors can create forms and distribute them to specific departments or designated employees. It can be easily integrated into your own system and supports secondary development, data interaction.
